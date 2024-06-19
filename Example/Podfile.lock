@@ -1,0 +1,27 @@
+PODS:
+  - joePodTest (0.1.0)
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - joePodTest (from `../`)
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  joePodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  joePodTest: 38cae02a2fe1ed5332634bcfdee028d3a7764223
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 8766ad2f95dea3ddf02a7645ad8699576ed2c93a
+
+COCOAPODS: 1.15.2

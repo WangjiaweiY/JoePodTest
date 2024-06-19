@@ -1,0 +1,6 @@
+framework module joePodTest {
+  umbrella header "joePodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
